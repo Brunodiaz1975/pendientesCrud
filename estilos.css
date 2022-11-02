@@ -1,0 +1,12 @@
+span {
+    text-align: end;
+    justify-items: end;
+}
+
+.float-right {
+    text-align: justify;
+    justify-content: end;
+}
+body {
+    background-color: hwb(60 86% 0%);
+}
